@@ -1,16 +1,16 @@
-# manajemenbuku
+# Screenshot Program CRUD dan Login :
+Nama : Sufyan Abdur Rofiq
+NIM  : H1D022004
+SHFT LAMA : B
+SHIFT BARU : C
 
-A new Flutter project.
+A). Screenshhot Registrasi :
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/32f9b6cd-81ff-4828-bcbe-f4b15e51012f)
 
-This project is a starting point for a Flutter application.
+B). Screenshoot Login :
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/094bcba6-76be-4dae-9f46-e526d78bda8c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
